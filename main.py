@@ -1,7 +1,7 @@
 import argparse
+import os
 import requests
 from collections import Counter
-import os
 
 
 def read_file(filename):
